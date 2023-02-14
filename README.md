@@ -1,2 +1,2 @@
 # zz
-Un repo absurd
+Un repo absurd, per la classe del calamot.
